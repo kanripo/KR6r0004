@@ -1,24 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:01.185997
+#+DATE: 2015-08-30 21:55:02.437073
 #+TITLE: 佛使比丘迦旃延說法沒盡偈百二十章
 #+PROPERTY: CBETA_ID T49n2029
 #+PROPERTY: ID KR6r0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 49, No. 2029
 #+PROPERTY: VOL 49
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6r0004_T_000-0009c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0004_T_001-0009c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.2029¶
-
- 佛使比丘迦旃延說法沒盡偈百¶
+No. 2029¶
+佛使比丘迦旃延說法沒盡偈百¶
 二十章¶
 ¶
-失譯人名今附西晉錄¶
+失譯人名今附西晉錄今附西晉錄¶
 
 #+BEGIN_VERSE
 「　尊者迦旃子
@@ -121,7 +120,7 @@ No.2029¶
 　流俗行來事¶
 　假使有學者
 　眾人所供養¶
-　羨者求出家
+　羡者求出家
 　言學比丘法¶
 　假使有學者
 　白衣所崇敬¶
