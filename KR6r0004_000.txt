@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛使比丘迦旃延說法沒盡偈百二十章
+#+DATE: 2015-08-30 21:55:01.392018
+#+PROPERTY: JUAN 0
